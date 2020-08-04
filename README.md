@@ -1,16 +1,15 @@
-### Hi there 👋
+# Gustavo Poltronieri Hruschka
 
-<!--
-**GustavoHruschka/GustavoHruschka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello everyone! 
 
-Here are some ideas to get you started:
+I've been studying a lot of programming and I'm in love with it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+By now, im able to do this things (and maybe more):
+- Create interfaces using HTML and CSS
+- Use javascript and typescript for web development
+- Work on front-end with React
+- Biuld APIs and work with databases for back-end with Node.js
+- Play League of Legends (and I'm not so bad at it!)
+
+Contact me:
+gustavo.phruschka@gmail.com
