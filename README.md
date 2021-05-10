@@ -4,7 +4,7 @@
 
 I've been studying programming in the last years
 
-By now, im able to do this things (and maybe more):
+By now, im able to do this things (and maybe more!):
 - Create interfaces using HTML and CSS;
 - Use javascript and typescript for web development;
 - Work on front-end with React;
